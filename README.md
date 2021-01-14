@@ -2,7 +2,7 @@
 
 ## ML Projects
 
-[San Francisco Restaurnat Health Score](https://github.com/habalcha/SF-restaurant)
+[San Francisco Restaurant Health Score](https://github.com/habalcha/SF-restaurant-review)
 
 ## Data Analysis and Visualizations
 
