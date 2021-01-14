@@ -11,3 +11,7 @@
 
 ## Natural Language Processing
 
+## Other Projects
+
+[Universal Linear Regression](https://github.com/habalcha/univ_linear_regression)
+
