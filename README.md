@@ -4,6 +4,8 @@
 
 [San Francisco Restaurant Health Score](https://github.com/habalcha/SF-restaurant-review)
 
+[Guess The Movie](https://github.com/habalcha/guess-the-movie)
+
 ## Data Analysis and Visualizations
 
 [Chicago Crime Analysis](https://github.com/habalcha/chicago-crime-analysis)
